@@ -1,4 +1,17 @@
-h1 {
-  color: #f0f;
-  font-family: Arial, Helvetica, sans-serif;
+div {
+  margin: auto;
+  text-align: center;
+}
+
+p#border {
+  border-style: solid;
+  color: blue;
+  font-family: Helvetica;
+}
+
+p {
+    border-style: solid;
+  color: blue;
+  font-family: Helvetica;
+  text-align: center;
 }
