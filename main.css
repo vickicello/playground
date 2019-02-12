@@ -10,8 +10,8 @@ p#border {
 }
 
 p {
-    border-style: solid;
+  border-style: solid;
   color: blue;
   font-family: Helvetica;
   text-align: center;
-}
+} 
